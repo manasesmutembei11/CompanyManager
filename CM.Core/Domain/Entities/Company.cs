@@ -8,6 +8,7 @@ namespace CM.Core.Domain.Entities
 {
     public class Company
     {
+        public Guid Id { get; set; }
 
     }
 }
