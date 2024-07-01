@@ -1,0 +1,6 @@
+@CM.Application_HostAddress = http://localhost:5057
+
+GET {{CM.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
